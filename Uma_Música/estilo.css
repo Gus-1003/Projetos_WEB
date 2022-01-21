@@ -1,0 +1,8 @@
+aside {
+	width: 20%;
+	padding: 10px;
+	float: inline-end;
+	box-shadow: 2px 2px 2px 2px;
+	font-style: italic;
+	color: #123456;
+}
