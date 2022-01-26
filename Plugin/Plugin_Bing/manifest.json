@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "TesteXP",
+    "description": "Atividade de arquitetura",
+    "author": "Gustavo",
+    "browser_action":{
+        "default_title": "Bloco de Notas",
+        "default_popup": "index.html"
+    }
+}

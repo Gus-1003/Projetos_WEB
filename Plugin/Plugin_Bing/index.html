@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bloco de Notas</title>
+    </head>
+
+    <body>
+        <form name="form1" style="height: 10rem;width: 20rem;">
+            <h1>Mensagens: </h1>
+            <input style="height: 5rem;width: 10rem;" type="text" name="text1" placeholder="Enter text..."></input>
+        </form>
+    </body>
+
+    <script type="text/javascript" style="height: 10rem; width: 20rem;">
+        function Value1()
+        {
+            alert("Value 1 is " + sessionStorage.getItem("text1"));
+        }
+    </script>
+
+</html>
