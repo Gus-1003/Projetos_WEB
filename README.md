@@ -1,9 +1,10 @@
 # Projetos Web
 ## Objetivo:
-Ganhar experiência na maior quantidade de linguagens, ferramentas e estruturas que visam o desenvolvimento de programas web.
-    *  Tutoriais:
-        *  MDN Web - https://developer.mozilla.org/en-US/docs/Learn
-        *  Browse 
+      *  Ganhar experiência na maior quantidade de linguagens, ferramentas e estruturas que visam o desenvolvimento de programas web.
+      *  Tutoriais:
+         - MDN Web - https://developer.mozilla.org/en-US/docs/Learn
+      *   Materiais - Curso:
+         - https://drive.google.com/drive/folders/1qg3NEDhwlm6CJc-fD2RdTw_U02LrzWdD?usp=sharing
 ## Estrutura:
     *  HTML - https://www.w3schools.com/html/default.asp
     *  CSS - https://www.w3schools.com/css/default.asp
